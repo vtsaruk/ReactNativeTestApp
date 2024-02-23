@@ -1,0 +1,2 @@
+export const LOGIN = 'LOGIN';
+export const LOAD_PREDEFINED_SITES = 'LOAD_PREDEFINED_SITES';
